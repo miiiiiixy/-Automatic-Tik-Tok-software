@@ -23,5 +23,5 @@ Before running this program, please ensure that you have enabled adb.<br>
 1.前往realse页面下载最新版本的“software.zip”<br>
 2.下载完整后解压<br>
 3.运行“Auto watch Tiktok.exe”<br>
-4.输入您所需要的间隔时间
+4.输入您所需要的间隔时间<br>
 5.完成！
