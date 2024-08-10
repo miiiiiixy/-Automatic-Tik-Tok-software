@@ -17,5 +17,11 @@ Before running this program, please ensure that you have enabled adb.<br>
 6.Enter, scroll down, find 'USB Debugging', and enable it.<br>
 7.complete!
 # 自动刷抖音
-此程序使用了谷歌的adb与fastboot工具包<br>
-在运行此程序之前，请确认您打开了adb
+此程序使用了谷歌的adb与fastboot工具包。<br>
+在运行此程序之前，请确认您为您的手机打开了adb。
+## 如何使用该程序？
+1.前往realse页面下载最新版本的“software.zip”<br>
+2.下载完整后解压<br>
+3.运行“Auto watch Tiktok.exe”<br>
+4.输入您所需要的间隔时间
+5.完成！
