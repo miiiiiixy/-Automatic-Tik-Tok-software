@@ -14,8 +14,9 @@ int main()
 	cin>>a;
 	system("cls");
 	a*=1000;
-	for(;;)
+	for(int i=1;;i++)
 	{
+		cout<<"The "<<i<<" cycle";
 		system("adb shell input swipe 550 1750 520 830 100");
 		Sleep(a);
 		system("cls");
