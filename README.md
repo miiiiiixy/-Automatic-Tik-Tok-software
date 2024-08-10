@@ -15,7 +15,7 @@ Before running this program, please ensure that you have enabled adb.<br><br>
 4.When 'You are in developer mode' is displayed.<br>
 5.Go back to the main settings and scroll down to find 'Developer Options'.<br>
 6.Enter, scroll down, find 'USB Debugging', and enable it.<br>
-7.complete!
+7.complete!<br>
 Tip: If you are a Xiaomi user, you may also need to open "USB Debugging (Security Settings)"
 # 自动刷抖音
 此程序使用了谷歌的adb与fastboot工具包。<br>
@@ -35,4 +35,4 @@ Tip: If you are a Xiaomi user, you may also need to open "USB Debugging (Securit
 6.进入“开发者选项”并往下滑<br>
 7.找到“USB调试”并启用它<br>
 8.完成!<br>
-tip:如果您是小米用户，您可能还需要打开“USB调试（安全设置）”
+Tip:如果您是小米用户，您可能还需要打开“USB调试（安全设置）”
