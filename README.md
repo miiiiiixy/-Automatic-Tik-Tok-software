@@ -1,6 +1,6 @@
 # Auto watch TikTok
 This program uses Google's adb and fastboot toolkits.<br>
-Before running this program, please ensure that you have enabled adb.<br>
+Before running this program, please ensure that you have enabled adb.<br><br>
 此readme文档拥有中文版本，往下滑即可
 ## How to use?
 1.dowload "software.zip"<br>
