@@ -3,7 +3,7 @@ This program uses Google's adb and fastboot toolkits.<br>
 Before running this program, please ensure that you have enabled adb.<br><br>
 此readme文档拥有中文版本，往下滑即可
 ## How to use?
-1.dowload "software.zip"<br>
+1.dowload "Auto watch Tiktok.zip"<br>
 2.unzip<br>
 3.run Auto watch TikTok.exe<br>
 4.Input interval time and enter<br>
@@ -20,8 +20,8 @@ Before running this program, please ensure that you have enabled adb.<br><br>
 此程序使用了谷歌的adb与fastboot工具包。<br>
 在运行此程序之前，请确认您为您的手机打开了adb。
 ## 如何使用该程序？
-1.前往releases页面下载最新版本的“software.zip”<br>
+1.前往releases页面下载最新版本的“Auto watch Tiktok.zip”<br>
 2.下载完整后解压<br>
-3.运行“Auto watch Tiktok.exe”<br>
+3.运行“自动刷抖音.exe”<br>
 4.输入您所需要的间隔时间<br>
 5.完成！
