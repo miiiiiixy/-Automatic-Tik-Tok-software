@@ -1,1 +1,1 @@
-# -Auto-watch-TikTok-software
+# Auto watch TikTok software
