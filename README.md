@@ -2,4 +2,4 @@
 Newcomers programming, please give me more guidance
 ## How to use?
   1.dowload "software.zip"
-  2.
+  2.unzip
