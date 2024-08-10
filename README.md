@@ -1,5 +1,5 @@
 # Auto watch TikTok software
-Newcomers programming, please give me more guidance
+Newcomers programming, please give me more guidance<br>
 Before running this program, please ensure that you have enabled adb
 ## How to use?
   1.dowload "software.zip"<br>
