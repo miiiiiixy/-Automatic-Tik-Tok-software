@@ -33,5 +33,5 @@ Before running this program, please ensure that you have enabled adb.<br><br>
 5.返回，找到“更多设置”或“开发者选项”<br>
 6.进入“开发者选项”并往下滑<br>
 7.找到“USB调试”并启用它<br>
-8.完成!
+8.完成!<br>
 tip:如果您是小米用户，您可能还需要打开“USB调试（安全设置）
