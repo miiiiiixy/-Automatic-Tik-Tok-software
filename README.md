@@ -1,5 +1,6 @@
 # Auto watch TikTok software
 Newcomers programming, please give me more guidance
+Before running this program, please ensure that you have enabled adb
 ## How to use?
   1.dowload "software.zip"<br>
   2.unzip<br>
