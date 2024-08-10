@@ -7,3 +7,4 @@ Before running this program, please ensure that you have enabled adb.
 3.run Auto watch TikTok.exe<br>
 4.Input interval time and enter<br>
 5.complete
+## How to activate adb?
