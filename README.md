@@ -1,6 +1,6 @@
 # Auto watch TikTok
 This program uses Google's adb and fastboot toolkits.<br>
-Before running this program, please ensure that you have enabled adb.
+Before running this program, please ensure that you have enabled adb.<br>
 此readme文档拥有中文版本，往下滑即可
 ## How to use?
 1.dowload "software.zip"<br>
@@ -16,3 +16,6 @@ Before running this program, please ensure that you have enabled adb.
 5.Go back to the main settings and scroll down to find 'Developer Options'.<br>
 6.Enter, scroll down, find 'USB Debugging', and enable it.<br>
 7.complete!
+# 自动刷抖音
+此程序使用了谷歌的adb与fastboot工具包<br>
+在运行此程序之前，请确认您打开了adb
