@@ -1,5 +1,6 @@
 # Auto watch TikTok
 This program uses Google's adb and fastboot toolkits.<br>
+"Auto watch TikTok.exe" is the English version of the software, and "自动刷抖音.exe" is the Chinese version.<br>
 Before running this program, please ensure that you have enabled adb.<br><br>
 此readme文档拥有中文版本，往下滑即可
 ## How to use?
