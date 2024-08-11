@@ -20,6 +20,7 @@ Tip: If you are a Xiaomi user, you may also need to open "USB Debugging (Securit
 # 自动刷抖音
 此程序使用了谷歌的adb与fastboot工具包。<br>
 在运行此程序之前，请确认您为您的手机打开了adb。
+“”“自动刷抖音.exe”是该软件的中文版本
 ## 如何使用该程序？
 1.前往releases页面下载最新版本的“Auto watch Tiktok.zip”<br>
 2.下载完整后解压<br>
