@@ -7,6 +7,7 @@ int main()
 	cout<<"Welcome to the auto watch TikTok program!"<<endl;
 	cout<<"All programs like TikTok can be used."<<endl;
 	cout<<"Before starting the program, please make sure your phone has adb turned on and connected to the computer."<<endl;
+	cout<<"If you have not enabled adb, please refer to the readme stable document of the project to enable it."<<endl; 
 	cout<<"Please make sure you have opened TikTok or a TikTok-like app on your phone."<<endl;
 	cout<<"When you think it's time to exit, just close the window"<<endl;
 	cout<<"So pick an interval now and start using it!"<<endl;
